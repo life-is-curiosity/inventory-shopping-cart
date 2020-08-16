@@ -6,6 +6,13 @@
 4. Import the `estore-test.postman_collection` to Postman for automation test
 5. Run the post-man collection
 
+<H3> Noted </H3>
+
+1. No session handling for the user/admin.
+2. Add user to the `user` table manually. (Will add a default user by mysql_init.sql)
+3. Shopping cart is implemented by internal memory instead of database table.
+
+
 <H3> Data structure </H3>
 
 <H5> Inventory Control and Checkout</H5>
@@ -17,12 +24,6 @@
 ![image info](shopping-cart-classes-diagram.bmp)
 
 <img> 
-
-<H3> Noted </H3>
-
-1. No session handling for the user/admin.
-2. Add user to the `user` table manually. (Will add a default user by mysql_init.sql)
-3. Shopping cart is implemented by internal memory instead of database table.
 
 <H3> API Spec. </H3>
 
