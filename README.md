@@ -4,6 +4,7 @@
 2. Maven build the project.
 3. Default open web-service with 8080 port.
 4. Import the `estore-test.postman_collection` to Postman for automation test
+5. Run the post-man collection
 
 <H3> Data structure </H3>
 
@@ -264,7 +265,7 @@ Error cases:
 1. Product does not exist
 {
     "reason": "Product does not exist",
-    "success": falseupdate_quantity
+    "success": false
 }
 2. User does not exist
 {
