@@ -109,6 +109,6 @@ SET FOREIGN_KEY_CHECKS=1
 
 
 insert into `online-estore`.user values (1, 'alan');
-INSERT INTO `online-estore`.product (name, description, status, price, quantity) VALUES ('Lenovo X230', 'A solid laptop with nice water proof keyboard', 1, 6500.00,    1);
-INSERT INTO `online-estore`.product (name, description, status, price, quantity) VALUES ('Mouse', 'A general Mouse for bundle deal', 1, 10.00, 0);
+INSERT INTO `online-estore`.product (name, description, status, price, quantity) VALUES ('Lenovo X230', 'A solid laptop with nice water proof keyboard', 1, 6500.00,   3);
+INSERT INTO `online-estore`.product (name, description, status, price, quantity) VALUES ('Mouse', 'A general Mouse for bundle deal', 1, 10.00, 3);
 ;

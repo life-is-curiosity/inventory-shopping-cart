@@ -482,6 +482,8 @@
 							"pm.test(\"test success\", function () {\r",
 							"    var jsonData = pm.response.json();\r",
 							"    pm.expect(jsonData.success).to.eql(true);\r",
+							"    pm.expect(jsonData.data.checkedOut).to.eql(true);\r",
+							"    pm.expect(jsonData.data.totalPrice).to.eql(150);\r",
 							"});"
 						],
 						"type": "text/javascript"
