@@ -1,0 +1,16 @@
+store\entity\BundleDeal.class
+store\EstoreApplication.class
+store\dao\UserDAO.class
+store\entity\ShoppingCartItem.class
+store\entity\Product.class
+store\entity\DiscountDeal.class
+store\controller\ShoppingCartController.class
+store\service\ProductService.class
+store\controller\ProductController.class
+store\entity\ShoppingCart.class
+store\service\UserService.class
+store\service\ShoppingCartService.class
+store\config\DatabaseConfig.class
+store\entity\User.class
+store\dao\ProductDAO.class
+store\common\JsonUtils.class

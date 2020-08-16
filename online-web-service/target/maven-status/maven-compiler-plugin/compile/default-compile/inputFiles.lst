@@ -1,0 +1,16 @@
+D:\Projects\e-store\online-web-service\src\main\java\store\common\JsonUtils.java
+D:\Projects\e-store\online-web-service\src\main\java\store\entity\ShoppingCart.java
+D:\Projects\e-store\online-web-service\src\main\java\store\entity\ShoppingCartItem.java
+D:\Projects\e-store\online-web-service\src\main\java\store\entity\BundleDeal.java
+D:\Projects\e-store\online-web-service\src\main\java\store\service\UserService.java
+D:\Projects\e-store\online-web-service\src\main\java\store\entity\Product.java
+D:\Projects\e-store\online-web-service\src\main\java\store\dao\UserDAO.java
+D:\Projects\e-store\online-web-service\src\main\java\store\service\ProductService.java
+D:\Projects\e-store\online-web-service\src\main\java\store\EstoreApplication.java
+D:\Projects\e-store\online-web-service\src\main\java\store\entity\DiscountDeal.java
+D:\Projects\e-store\online-web-service\src\main\java\store\controller\ShoppingCartController.java
+D:\Projects\e-store\online-web-service\src\main\java\store\dao\ProductDAO.java
+D:\Projects\e-store\online-web-service\src\main\java\store\service\ShoppingCartService.java
+D:\Projects\e-store\online-web-service\src\main\java\store\controller\ProductController.java
+D:\Projects\e-store\online-web-service\src\main\java\store\config\DatabaseConfig.java
+D:\Projects\e-store\online-web-service\src\main\java\store\entity\User.java
