@@ -2,9 +2,10 @@
 
 1. Please install MySQL and run mysql_init.sql
 2. Maven build the project.
-3. Default open web-service with 8080 port.
-4. Import the `estore-test.postman_collection` to Postman for automation test
-5. Run the post-man collection
+3. Run or debug `EstoreApplication.java`
+4. Default open web-service with 8080 port.
+5. Import the `estore-test.postman_collection` to Postman for automation test
+6. Run the post-man collection
 
 <H3> Noted </H3>
 
