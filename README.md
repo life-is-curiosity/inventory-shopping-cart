@@ -1,6 +1,6 @@
 <H3> Programming Language and Framework </H3>
 
-    Java, Spring Boot, JPA, MySQL
+    Java, Spring Boot, JPA, MySQL, Maven
 
 <H3> Setup Guide </H3>
 
