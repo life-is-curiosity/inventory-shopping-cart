@@ -1,3 +1,7 @@
+<H3> Programming Language and Framework </H3>
+
+Java, Spring Boot, JPA, MySQL
+
 <H3> Setup Guide </H3>
 
 1. Please install MySQL and run mysql_init.sql
